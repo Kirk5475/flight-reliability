@@ -2,3 +2,4 @@ streamlit
 polars
 python-dotenv
 requests
+plotly
